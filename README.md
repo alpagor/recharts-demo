@@ -9,6 +9,6 @@ In the project directory, you can run:
 
 ### Documentation
 
-See the official documentation here: http://recharts.org/en-US/
+See the official documentation here: http://recharts.org/en-US/     
 and the npm package here: https://www.npmjs.com/package/recharts
 
